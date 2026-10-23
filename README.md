@@ -1,2 +1,2 @@
-# vantage-158
-Suivi quotidien Kalel Invest - Vantage 158 
+# vantage
+Suivi quotidien Kalel Invest - Vantage
